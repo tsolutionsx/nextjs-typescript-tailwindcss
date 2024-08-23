@@ -1,18 +1,5 @@
 # Next.js + app router + Tailwind CSS + TypeScript Starter and Boilerplate
 
-<div align="center">
-  <h2>🥤Nextjs-typescript-tailwindcss☕</h2>
-  <p>Nextjs + app router + Typescript + tailwindCSS and many other development tools packed in one simple starter project. </p>
-  <p>Made by <a href="https://www.linkedin.com/in/baqirnekfar123/">Baqir Nekfar</a></p>
-
-</div>
-
-## Check the live demo:
-### [Demo](https://nextjs-ts-tailwindcss-demo.vercel.app)
-
-## Do you want to learn how to setup this project?
-[Check My Blog post here ](https://www.jsdojo.dev/posts/setup-a-nextjs-with-app-router-typescript-tailwindcss-project-powered-by-eslint-prettier-husky-and-lint-staged)
-
 ## Features
 
 This starter simple project powered by bellow tools out of the box!
@@ -37,7 +24,7 @@ you can either download it or clone it with the help of git.
 clone:
 
 ```bash
-git clone git@github.com:NekfarBaqir/ts-nextjs-appdir-tailwind-starter.git
+git clone git@github.com:tsolutionsx/nextjs-typescript-tailwindcss.git
 ```
 
 ### 2. Installing dependencies
@@ -66,10 +53,3 @@ pnpm dev
 ```
 
 Note : This starter project is under work. I will gradually add new features and development tools to it.
-
-## You can connect with me:
-
-- [🌎 My Website](https://jsdojo.dev)
-- [🗒️ LinkedIn](https://www.linkedin.com/in/baqirnekfar123/)
-- [📀 YouTube](https://www.youtube.com/channel/UCttmLaFgHTa2W9qTvb-YTpA)
-- [📸 Instagram](https://www.instagram.com/baqirnekfar/)
